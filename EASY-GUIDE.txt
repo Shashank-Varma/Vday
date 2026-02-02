@@ -1,0 +1,215 @@
+===============================================================================
+    SUPER EASY GUIDE - Customize Your Valentine Website
+===============================================================================
+
+SIMPLE 3-STEP PROCESS
+=====================
+
+STEP 1: Go to Claude.ai
+-----------------------
+- Open your browser
+- Go to claude.ai
+- Make sure you're logged in
+
+
+STEP 2: Upload the Template
+----------------------------
+- Click the attachment/upload button (paperclip icon)
+- Select valentine-template.html from your computer
+- Wait for it to upload (you'll see it appear in the chat)
+
+
+STEP 3: Copy & Paste This Prompt
+---------------------------------
+
+Copy everything between the lines below and paste it into Claude.
+Fill in YOUR information where it says [FILL THIS]:
+
+-------------------------------------------------------------------------------
+Customize this Valentine template for me with these details:
+
+NAMES:
+- Recipient's name: [FILL THIS - like "Sarah" or "Alex"]
+- Your name: [FILL THIS - like "Mike" or "Jamie"]
+
+LOVE LETTER:
+Write a sweet message that says: [FILL THIS - example: "You make me smile every day and I'm so lucky to have you in my life"]
+
+PHOTOS (4 photos):
+1. [FILL THIS - describe the photo like "us at the beach"] - Caption: [FILL THIS - like "Best day ever"]
+2. [FILL THIS] - Caption: [FILL THIS]
+3. [FILL THIS] - Caption: [FILL THIS]
+4. [FILL THIS] - Caption: [FILL THIS]
+
+DATE IDEAS (6 activities):
+1. [FILL THIS - like "Dinner at your favorite restaurant"]
+2. [FILL THIS - like "Movie night with popcorn"]
+3. [FILL THIS - like "Walk in the park"]
+4. [FILL THIS]
+5. [FILL THIS]
+6. [FILL THIS]
+
+SURPRISE MESSAGES (6 sweet messages):
+1. [FILL THIS - like "I love your smile"]
+2. [FILL THIS - like "You make every day better"]
+3. [FILL THIS]
+4. [FILL THIS]
+5. [FILL THIS]
+6. [FILL THIS]
+
+FOOTER:
+[FILL THIS - like "Made with love by John"]
+
+Please create the customized HTML file for me.
+-------------------------------------------------------------------------------
+
+
+STEP 4: Get Your File
+---------------------
+- Claude will create your personalized version
+- Click the download button on the file Claude gives you
+- Save it to your computer
+
+
+STEP 5: Open & Share
+--------------------
+- Double-click the downloaded HTML file
+- It will open in your browser
+- Share it! You can:
+  - Send the file directly
+  - Host it online (free options below)
+
+
+===============================================================================
+SUPER QUICK EXAMPLE
+===============================================================================
+
+Here's what it looks like filled out (replace with YOUR info):
+
+-------------------------------------------------------------------------------
+Customize this Valentine template for me with these details:
+
+NAMES:
+- Recipient's name: Emma
+- Your name: James
+
+LOVE LETTER:
+Write a sweet message that says: You've made these past 6 months the best of my life. Can't wait for many more adventures together!
+
+PHOTOS (4 photos):
+1. Our first coffee date - Caption: Where it all started
+2. That silly selfie we took - Caption: You make me laugh so much
+3. Beach sunset - Caption: Perfect moment with you
+4. Us cooking together - Caption: Even burnt food tastes good with you
+
+DATE IDEAS (6 activities):
+1. Romantic dinner at Luigi's Italian Restaurant
+2. Movie marathon with all your favorite rom-coms
+3. Picnic at Central Park with homemade sandwiches
+4. Game night - loser cooks breakfast!
+5. Sunrise hike at Mountain Trail
+6. Surprise date (it's a secret!)
+
+SURPRISE MESSAGES (6 sweet messages):
+1. I love how you scrunch your nose when you laugh
+2. Your random memes at 2 AM make my day
+3. Thank you for always being there for me
+4. You're my favorite person to do nothing with
+5. I'm so proud of everything you achieve
+6. Can't wait to see where life takes us together
+
+FOOTER:
+Made with all my love by James
+P.S. You're stuck with me now!
+
+Please create the customized HTML file for me.
+-------------------------------------------------------------------------------
+
+
+===============================================================================
+PRO TIPS
+===============================================================================
+
+Adding Real Photos
+------------------
+If you want to add your actual photos:
+
+Option 1 - Easy Way:
+Tell Claude: "I have 4 photos to add, how do I upload them?"
+
+Option 2 - Super Easy:
+After Claude creates your file, upload your photos and say:
+"Replace the placeholder images with these 4 photos I'm uploading"
+
+
+Hosting Your Website Online (FREE)
+-----------------------------------
+
+Method 1 - Netlify Drop (Easiest)
+1. Go to drop.netlify.com
+2. Drag your HTML file into the box
+3. Get a free link instantly!
+4. Share that link with your Valentine
+
+Method 2 - GitHub Pages
+1. Create free GitHub account
+2. Upload file
+3. Enable GitHub Pages
+4. Get a permanent link
+
+Method 3 - Google Drive
+1. Upload to Google Drive
+2. Right-click → Get link
+3. Share the file directly
+
+
+===============================================================================
+COMMON QUESTIONS
+===============================================================================
+
+Q: I don't have photos yet, can I still use it?
+A: Yes! It comes with cute placeholder images. Add real photos later.
+
+Q: Can I change colors?
+A: Yes! Just tell Claude: "Change the colors to blue and gold" 
+   (or any colors you want)
+
+Q: I want to change something after Claude creates it?
+A: Just upload the file Claude gave you and say: 
+   "Change the love letter to say..." or "Make the date plans more funny"
+
+Q: Will this work on phones?
+A: Yes! It's fully responsive and looks great on all devices.
+
+Q: Do I need to know coding?
+A: Nope! Zero coding knowledge needed. Just fill in the template above.
+
+
+===============================================================================
+TL;DR (QUICK VERSION)
+===============================================================================
+
+1. Go to claude.ai
+2. Upload valentine-template.html
+3. Paste the prompt above (fill in your info)
+4. Download the file Claude creates
+5. Open it in browser or share online
+
+That's it!
+
+
+===============================================================================
+STILL CONFUSED?
+===============================================================================
+
+Just go to claude.ai and say:
+
+"I have a Valentine template HTML file. Help me customize it with my 
+personal information."
+
+Claude will guide you through it step by step!
+
+
+-------------------------------------------------------------------------------
+Made with love to help you create something special!
+-------------------------------------------------------------------------------
